@@ -1,0 +1,3 @@
+<?php
+$partform->showf();
+?>
